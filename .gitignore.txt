@@ -1,0 +1,20 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs & cache
+*.log
+cache/
+tmp/
+*.tmp
+
+# Environment & secrets
+.env
+.env.*
+PGLIFE/includes/config.php
+config.local.php
+
+# Composer (if used)
+vendor/
